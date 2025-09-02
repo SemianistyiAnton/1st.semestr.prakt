@@ -13,3 +13,4 @@ for ch in text:
             break
         else:
             time.sleep(0.002)
+            print(temp+i)
