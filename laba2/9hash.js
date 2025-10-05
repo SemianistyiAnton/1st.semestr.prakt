@@ -4,7 +4,7 @@ const phonebookHashe = {
 }
 
 function getNumberByName (name) {
-    return phonebookHashe[name] 
+    return phonebookHashe[name] || null;
 }
 
-console.log(getNumberByName('collapse'))  
+console.log(getNumberByName('collase'))  
