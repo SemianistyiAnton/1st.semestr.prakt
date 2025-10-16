@@ -7,4 +7,4 @@ function getNumberByName (name) {
     return phonebookHashe[name] || null;
 }
 
-console.log(getNumberByName('collase'))  
+console.log(getNumberByName('collapse'))
