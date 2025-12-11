@@ -4,7 +4,6 @@ function name(s, e) {
     arr.push(i);
   }
   console.log(arr)
-  return arr;
 }
 
 name(15, 30);

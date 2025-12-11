@@ -1,4 +1,4 @@
-const test = (arrangement) =>{
+function test (arrangement){
     const count = {};
     for (const part of arrangement) {
         const element = typeof part;

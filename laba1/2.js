@@ -1,7 +1,4 @@
-const plus = (x) => {
-    return x += 1;
-};
-
+const plus = (x) => (x + 1);
 let a = 9;
 let b = plus(a);
 

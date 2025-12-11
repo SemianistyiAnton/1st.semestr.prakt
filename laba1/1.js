@@ -1,4 +1,4 @@
-const beta = () =>{
+function beta () {
     console.log({x});
     var x = 322;
     console.log({x});

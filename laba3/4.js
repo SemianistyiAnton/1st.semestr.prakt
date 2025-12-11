@@ -1,5 +1,5 @@
 const iFace = {
-    xD1: b =>[b],
+    xD1: b =>({b}),
     xD2: function (b, l) {
     return [b, l]
     },

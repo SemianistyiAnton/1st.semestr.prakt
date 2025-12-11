@@ -10,7 +10,6 @@ function name(strt, end) {
     }
     
     console.log(element);
-    return element;
 }
 
-name(15, 30);
+name(15, 30);   
